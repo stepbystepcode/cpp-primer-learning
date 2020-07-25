@@ -1,6 +1,5 @@
 <p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://i.loli.net/2020/07/25/YfUdMlncDQ8ItbC.png" alt="Cpp logo"></a></p>
-
-# cpp-primer-learning
+<h2 align="center">cpp-primer-learning</h2>
 
 Solutions for C++ *Primer* 5th exercises.
 ## Introduction
