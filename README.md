@@ -1,4 +1,4 @@
-<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="Cpp logo"></a></p>
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://i.loli.net/2020/07/25/YfUdMlncDQ8ItbC.png" alt="Cpp logo"></a></p>
 
 # cpp-primer-learning
 
