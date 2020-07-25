@@ -1,6 +1,8 @@
-<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://i.loli.net/2020/07/25/YfUdMlncDQ8ItbC.png" alt="Cpp logo"></a></p>
+<p align="center"><a href="#"><img width="100" src="https://i.loli.net/2020/07/25/YfUdMlncDQ8ItbC.png" alt="Cpp logo"></a></p>
 <h2 align="center">cpp-primer-learning</h2>
-[![](https://img.shields.io/badge/license-MIT-green.svg]({https://raw.githubusercontent.com/ybygjylj/cpp-primer-learning/master/LICENSE})
+<p align="center">
+  <a href="https://raw.githubusercontent.com/ybygjylj/cpp-primer-learning/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="LICENSE"></a>
+</p>
 Solutions for C++ *Primer* 5th exercises.
 ## Introduction
 This project is used to help people who want to learn C++ language by themselves.
