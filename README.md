@@ -6,8 +6,10 @@
   <a href="https://github.com/topics/cpp"><img src="https://img.shields.io/badge/language-c++-blue.svg" alt="languange"></a>
   <a href="https://gitter.im/learning-cpp/community"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="chat"></a>
 </p>
+
+
 Solutions for C++ *Primer* 5th exercises.
-blue## Introduction
+## Introduction
 This project is used to help people who want to learn C++ language by themselves.
 
 I'm a C + + beginner and the code can be problematic. If you find a mistake, you can write an issue on GitHub and I'll fix it as soon as I can.
