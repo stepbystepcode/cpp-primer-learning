@@ -2,10 +2,12 @@
 <h2 align="center">cpp-primer-learning</h2>
 <p align="center">
   <a href="https://travis-ci.com/ybygjylj/cpp-primer-learning"><img src="https://travis-ci.com/ybygjylj/cpp-primer-learning.svg?branch=master" alt="Build Status"></a>
-  <a href="https://raw.githubusercontent.com/ybygjylj/cpp-primer-learning/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="LICENSE"></a>
+  <a href="https://raw.githubusercontent.com/ybygjylj/cpp-primer-learning/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="LICENSE"></a>
+  <a href="http://github.com/badges/stability-badges"><img src="http://badges.github.io/stability-badges/dist/stable.svg" alt="stable"></a>
+  <a href="http://github.com/badges/stability-badges"><img src="https://img.shields.io/badge/language-c++-green.svg" alt="languange"></a>
 </p>
 Solutions for C++ *Primer* 5th exercises.
-## Introduction
+blue## Introduction
 This project is used to help people who want to learn C++ language by themselves.
 
 I'm a C + + beginner and the code can be problematic. If you find a mistake, you can write an issue on GitHub and I'll fix it as soon as I can.
