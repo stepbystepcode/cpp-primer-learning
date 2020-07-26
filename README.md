@@ -3,8 +3,8 @@
 <p align="center">
   <a href="https://travis-ci.com/ybygjylj/cpp-primer-learning"><img src="https://travis-ci.com/ybygjylj/cpp-primer-learning.svg?branch=master" alt="Build Status"></a>
   <a href="https://raw.githubusercontent.com/ybygjylj/cpp-primer-learning/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="LICENSE"></a>
-  <a href="http://github.com/badges/stability-badges"><img src="http://badges.github.io/stability-badges/dist/stable.svg" alt="stable"></a>
-  <a href="http://github.com/badges/stability-badges"><img src="https://img.shields.io/badge/language-c++-green.svg" alt="languange"></a>
+  <a href="http://github.com/badges/stability-badges"><img src="https://img.shields.io/badge/language-c++-blue.svg" alt="languange"></a>
+  <a href="http://github.com/badges/stability-badges"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="chat"></a>
 </p>
 Solutions for C++ *Primer* 5th exercises.
 blue## Introduction
