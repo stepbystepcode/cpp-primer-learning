@@ -1,6 +1,0 @@
-syntax error:
-return 0//Omit the semicolon
-type error:
-int a = "Hello";//
-declaration error:
-cout << "Hello World.\n"//use cout without std namespace
