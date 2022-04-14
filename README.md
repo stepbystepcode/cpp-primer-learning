@@ -12,7 +12,7 @@ Solutions for C++ *Primer* 5th exercises.
 ## Introduction
 This project is used to help people who want to learn C++ language by themselves.
 
-I'm a C + + beginner and the code can be problematic. If you find a mistake, you can write an issue on GitHub and I'll fix it as soon as I can.
+I'm a C + + beginner and the code can be problematic. If you find a mistake, you can write an issue [here](https://github.com/codingboylj/cpp-primer-learning/issues/new) and I'll fix it as soon as I can.
 ## Download e-books or Source Code
 
 You can get it from the relase:https://github.com/ybygjylj/cpp-primer-learning/releases/tag/1.0
